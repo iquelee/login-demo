@@ -1,0 +1,9 @@
+@uri=http://localhost:3000/
+###
+post {{uri}}register
+Content-Type: application/json
+
+{
+  "name": "ae1",
+  "password": "dd12s333"
+}
